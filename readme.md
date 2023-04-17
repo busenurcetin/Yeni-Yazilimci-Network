@@ -7,7 +7,7 @@
 <img src="images/network.webp" alt="Github" title="Github">
 <br>
 
-## What Is Thıs Network Thing? Why Is It That Important?
+## What Is This Network Thing? Why Is It That Important?
 
 <br>
 <p>
