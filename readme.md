@@ -1,3 +1,10 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/busenurcetin/Yeni-Yazilimci-Network)
+![GitHub stars](https://img.shields.io/github/stars/busenurcetin/Yeni-Yazilimci-Network?style=social)
+![GitHub forks](https://img.shields.io/github/forks/busenurcetin/Yeni-Yazilimci-Network?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/busenurcetin16?style=social)](https://twitter.com/intent/follow?screen_name=busenurcetin16)
+
+<br>
+
 [![tr](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/busenurcetin/Yeni-Yazilimci-Network/blob/master/readme.tr.md)
 <h1>New Developer - Network</h1>
 
